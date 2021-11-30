@@ -3,4 +3,5 @@
 /build/
 /build/classes/java/main/
 /build/classes/java/test/
-/src/resources/application-oauth.properties
+# ignore properties file
+application-oauth.properties
